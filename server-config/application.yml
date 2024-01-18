@@ -3,4 +3,4 @@
 info:
   foo: foobar
   someList: [2, 3, 7]
-  appSpecific: global
+  appSpecific: somethingElse
