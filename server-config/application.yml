@@ -4,4 +4,4 @@ info:
   foo: foobar
   someList: [2, 3, 7]
   appSpecific: somethingElse
-  divBackgroundColor: red
+  divBackgroundColor: lime
